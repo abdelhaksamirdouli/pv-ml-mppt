@@ -5,7 +5,7 @@
 Abdelhak Samir Douli, Abd Essalam Badoud, Belkacem Ould Bouamama, Mahdi Boukerdja
 *LAS, Université Sétif 1 (Algeria) · CRIStAL UMR 9189, Université de Lille (France)*
 
-📄 Accepted for publication · Journal and DOI: _to be added_ <!-- TODO: add journal + DOI -->
+📄 Published in **Results in Engineering** 28, 108237 (2025) · [doi:10.1016/j.rineng.2025.108237](https://doi.org/10.1016/j.rineng.2025.108237)
 
 ---
 
@@ -40,7 +40,6 @@ The ML controller settles in about **70 ms**.
 ## Follow-up work
 
 * [bg-ml-mppt-pv](https://github.com/abdelhaksamirdouli/bg-ml-mppt-pv) extends this idea with a **bond graph** model of the module, a single-module ablation and a sensitivity study (accepted in *Energies*).
-* [pemfc-ml-mppt-hil](https://github.com/abdelhaksamirdouli/pemfc-ml-mppt-hil) applies the same data-generation strategy to **PEM fuel cells**, with hardware-in-the-loop validation.
 
 ## Tools
 
@@ -49,6 +48,20 @@ MATLAB/Simulink · Python · PyTorch · ONNX · SciPy
 ## Code
 
 The simulation models and training code are kept in a private repository during the PhD. They are **available on request**: douli.a@univ-setif.dz.
+
+## Citation
+
+```bibtex
+@article{douli2025modelagnostic,
+  author  = {Douli, Abdelhak Samir and Badoud, Abd Essalam and Ould Bouamama, Belkacem and Boukerdja, Mahdi},
+  title   = {Development and validation of a novel model-agnostic machine learning framework for photovoltaic systems performance assessment under complex weather conditions},
+  journal = {Results in Engineering},
+  volume  = {28},
+  pages   = {108237},
+  year    = {2025},
+  doi     = {10.1016/j.rineng.2025.108237}
+}
+```
 
 ## Funding
 
