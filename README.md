@@ -47,7 +47,7 @@ MATLAB/Simulink · Python · PyTorch · ONNX · SciPy
 
 ## Code
 
-The simulation models and training code are kept in a private repository during the PhD. They are **available on request**: douli.a@univ-setif.dz.
+The simulation models and training code are kept in a private repository during the PhD. They are **available on request**: abdelhak.samir.douli@gmail.com.
 
 ## Citation
 
